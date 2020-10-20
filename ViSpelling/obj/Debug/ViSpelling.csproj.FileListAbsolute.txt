@@ -1,0 +1,14 @@
+C:\Users\MVi\source\repos\ViSpelling\ViSpelling\bin\Debug\ViSpelling.dll
+C:\Users\MVi\source\repos\ViSpelling\ViSpelling\bin\Debug\ViSpelling.pdb
+C:\Users\MVi\source\repos\ViSpelling\ViSpelling\bin\Debug\PresentationFramework.dll
+C:\Users\MVi\source\repos\ViSpelling\ViSpelling\obj\Debug\ViSpelling.csprojAssemblyReference.cache
+C:\Users\MVi\source\repos\ViSpelling\ViSpelling\obj\Debug\ViSpelling.csproj.CopyComplete
+C:\Users\MVi\source\repos\ViSpelling\ViSpelling\obj\Debug\ViSpelling.dll
+C:\Users\MVi\source\repos\ViSpelling\ViSpelling\obj\Debug\ViSpelling.pdb
+D:\tmp\ViSpelling\ViSpelling\bin\Debug\ViSpelling.dll
+D:\tmp\ViSpelling\ViSpelling\bin\Debug\ViSpelling.pdb
+D:\tmp\ViSpelling\ViSpelling\bin\Debug\PresentationFramework.dll
+D:\tmp\ViSpelling\ViSpelling\obj\Debug\ViSpelling.csprojAssemblyReference.cache
+D:\tmp\ViSpelling\ViSpelling\obj\Debug\ViSpelling.csproj.CopyComplete
+D:\tmp\ViSpelling\ViSpelling\obj\Debug\ViSpelling.dll
+D:\tmp\ViSpelling\ViSpelling\obj\Debug\ViSpelling.pdb
